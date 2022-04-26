@@ -1,4 +1,6 @@
 copyrights to haj ali w ahmed grati
+lanci docker-compose, ken bech tlanci query hel localhost:8080 w hot user: postgres w password: root
+tabaa l readme mteehom w normalement tekhdem
 
 # Synchronized Databases
 
